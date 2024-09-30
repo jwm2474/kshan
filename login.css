@@ -1,0 +1,82 @@
+
+    body{
+        font-family: sans-serif;
+        background-color: #073481;
+    }
+    
+    
+    .text{
+        text-align: center;
+        padding-top: 50px;
+        color: rgba(255, 255, 255, 1);
+        font-size: 40px;
+        font-family: 微软雅黑;
+    }
+    
+    .container{
+        width: 350px;
+        margin: 7% auto;
+        border-radius: 25px;
+        background-color: rgba(255, 255, 255, 1);
+        box-shadow: 0 0 17px #333;
+    }
+    
+    .header{
+        text-align: center;
+        padding-top: 40px;
+        margin-bottom: 20px;
+    }
+    
+    .header h1{
+        text-align: left;
+        padding-left: 30px;
+        color: #073481;;
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    
+    .main{
+        text-align: center;
+    }
+    
+    .main input{
+        width: 300px;
+        height: 40px;
+        outline: none;
+        padding: 20px;
+        box-sizing: border-box;
+        font-size: 15px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+    
+    .main button{
+        margin: 0% auto;
+        border-radius: 10px;
+        width: 150px;
+        height: 40px;
+        padding-left: 10px;
+        background-color: #83acf1;
+        letter-spacing: 1px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    
+    .pass-reglink{
+        text-align: right;
+        padding-right: 15px;
+    }
+    
+    .main button:hover{
+        box-shadow: 2px 2px 5px #555;
+        background-color: #7799d4;
+    }
+    
+    .main input:hover{
+        box-shadow: 2px 2px 5px #555 ;
+        background-color: #ddd;
+    }
+    
+    .main span{
+        position: relative;
+    }
